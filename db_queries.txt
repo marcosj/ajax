@@ -1,3 +1,5 @@
+-- http://www.php-dev-zone.com/p/downloads.html
+
 /* Create table country */
 
 CREATE TABLE `country` (
